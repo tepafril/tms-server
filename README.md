@@ -1,4 +1,4 @@
-# tms-server
+# Laravel + Vue 2 (Vuetify + Nuxt) using TS
 
 Hello There!
 
