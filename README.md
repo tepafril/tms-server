@@ -48,3 +48,16 @@ We use scribe as a auto-generated docs for readable guideline for other platform
 php artisan scribe:generate
 ```
 After running above, you can check the doc via default endpoint `http://localhost:8000/docs`
+
+
+## My Apology
+This is not well documented, since I do not have enough time to finish it. Please feel free to let me know your concerns or doubt.
+
+## Diagram Flow
+Not enough time to produce.
+
+## Product Spec
+Not enough time to produce.
+
+## Technical Spec
+Not enough time to produce.
