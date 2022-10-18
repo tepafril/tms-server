@@ -7,6 +7,9 @@ I have created 2 separate repositories so that it fit both restful api as well a
 Server side: `http://localhost:8000`
 Client side: `http://localhost:3000`
 
+Please check here for the client `https://github.com/tepafril/tms-client`
+
+
 ## Laravel Installation
 
 ```
